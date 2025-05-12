@@ -1,4 +1,3 @@
-# Achraf-NEJJARI
 # 🌟 À propos de moi 🌟
 Étudiant en ingénierie informatique | SupMTI Oujda – 4ᵉ année
 Passionné par l'ingénierie des données et l’intelligence artificielle, je me spécialise en développement logiciel, où j’applique les meilleures pratiques du génie informatique pour concevoir des solutions performantes et innovantes.
