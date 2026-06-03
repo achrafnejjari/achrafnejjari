@@ -90,9 +90,3 @@ to solve real-world business problems.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=WindowsTerminal&logoColor=white)
 
----
-
-# 📊 GitHub Stats:
-
-![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achrafnejjari&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafnejjari&layout=compact&theme=dark)
